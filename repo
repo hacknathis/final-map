@@ -19,7 +19,7 @@
   },
   {
     "id": 201,
-    "name": "La Union Botanical and Zoological Gardens",
+    "name": "La Union Botanical and Zoological Garden",
     "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/03/b7/17/04/la-union-botanical-garden.jpg",
     "price": 150,
     "priceCurrency": "PHP",
@@ -113,7 +113,7 @@
   ,
   {
     "id": 218,
-    "name": "MY HOMEs",
+    "name": "MY HOME",
     "imageUrl": "https://romrealty.com/wp-content/uploads/2015/01/house-home.jpg",
     "price": 15000000000,
     "priceCurrency": "PHP",
