@@ -37,20 +37,21 @@
   },
   {
     "id": 210,
-    "name": "Superbe vue à 2 min du Sacré Coeur",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat5.jpg",
+    "name": "Tuddingan Falls",
+    "imageUrl": "https://www.vigattintourism.com/assets/article_main_photos/optimize/1347697116x66Ar4TG.jpg",
     "price": 135,
     "priceCurrency": "EUR",
-    "lat": 48.888839,
-    "lng": 2.339208
+    "lat": 16.575216,
+    "lng": 120.417404
+
   },
   {
     "id": 211,
-    "name": "Bohemian and Chic in Paris",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
+    "name": "Occalong Falls",
+    "imageUrl": "https://lh4.googleusercontent.com/proxy/XpQJQsOqYKAn6UO4OHIpJvFQzIu5RugY2xSrqF-lkoNbWDdfWv0oNNtdthjZ_ODti_gpJx3oJZbAygvf3hqKSeS_ctsn2oP9OPbOMhc-jIOTzPeScIOxIaLVh5oRRYCFdaD0_pSZCcJyvVUIS08BHF5IgI5Lpw=w408-h408-k-no",
     "price": 90,
     "priceCurrency": "EUR",
-    "lat": 48.827855,
-    "lng": 2.350774
+    "lat": 16.798975,
+    "lng": 120.356724
   }
 ]
