@@ -53,5 +53,52 @@
     "priceCurrency": "EUR",
     "lat": 16.798975,
     "lng": 120.356724
+  },
+  {
+    "id": 212,
+    "name": "Basilica Minore of Our Lady of Charity",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/BasilicaMinoreofOurLadyofCharityjf_274.JPG/220px-BasilicaMinoreofOurLadyofCharityjf_274.JPG",
+    "price": 90,
+    "priceCurrency": "EUR",
+    "lat": 16.324528,
+    "lng": 120.355421
+  },
+  {
+    "id": 213,
+    "name": "Baluarte Watch Tower",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/BasilicaMinoreofOurLadyofCharityjf_274.JPG/220px-BasilicaMinoreofOurLadyofCharityjf_274.JPG",
+    "price": 90,
+    "priceCurrency": "EUR",
+    "lat": 16.856991,
+    "lng": 120.373173
+  },
+  {
+    "id": 214,
+    "name": "Christ the Redeemer Statue",
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNYzcR5voohSjFC9vlhQuRr1KtodEg242faiNVG=s1600-w1600",
+    "price": 150,
+    "priceCurrency": "EUR",
+    "lat": 16.621896,
+    "lng": 120.319688
+  }
+  ,
+  {
+    "id": 215,
+    "name": "Balay Anito Falls",
+    "imageUrl": "http://tupanggala.com/wp-content/uploads/2015/03/Balay-AnitoFalls11.jpg",
+    "price": 150,
+    "priceCurrency": "EUR",
+    "lat": 16.738725,
+    "lng": 120.454574
+  },
+  {
+    "id": 216,
+    "name": "Tapuakan River Park",
+    "imageUrl": "http://www.livibautista.com/wp-content/uploads/2015/12/921218_1078835592156008_3450756882156457203_o-1050x591.jpg",
+    "price": 150,
+    "priceCurrency": "EUR",
+    "lat": 16.321784,
+    "lng": 120.481898
+    
   }
 ]
