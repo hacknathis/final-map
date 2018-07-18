@@ -4,7 +4,7 @@
     "name": "Ma-Cho Temple",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/MaChoTemplejf501.JPG/1200px-MaChoTemplejf501.JPG",
     "price": 164,
-    "priceCurrency": "EUR",
+    "priceCurrency": "PHP",
     "lat": 16.621194,
     "lng": 120.317476
   },
@@ -13,7 +13,7 @@
     "name": "Tangadan Falls",
     "imageUrl": "https://www.thepinaysolobackpacker.com/wp-content/uploads/2017/03/LA-UNION-TANGADAN-FALLS-5-1-of-12-846x515.jpeg",
     "price": 200,
-    "priceCurrency": "EUR",
+    "priceCurrency": "PHP",
     "lat": 16.643574,
     "lng": 120.448794
   },
@@ -22,7 +22,7 @@
     "name": "Super 60m2 in trendy neighborhood!",
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat3.jpg",
     "price": 150,
-    "priceCurrency": "EUR",
+    "priceCurrency": "PHP",
     "lat": 48.885312,
     "lng": 2.341225
   },
@@ -31,7 +31,7 @@
     "name": "Pindangan Ruins",
     "imageUrl": "https://media0.trover.com/T/56cbeda47eb4f47a3b194cb9/fixedw_large_4x.jpg",
     "price": 115,
-    "priceCurrency": "EUR",
+    "priceCurrency": "PHP",
     "lat": 16.588143,
     "lng": 120.314598
   },
@@ -40,7 +40,7 @@
     "name": "Tuddingan Falls",
     "imageUrl": "https://www.vigattintourism.com/assets/article_main_photos/optimize/1347697116x66Ar4TG.jpg",
     "price": 135,
-    "priceCurrency": "EUR",
+    "priceCurrency": "PHP",
     "lat": 16.575216,
     "lng": 120.417404
 
@@ -50,7 +50,7 @@
     "name": "Occalong Falls",
     "imageUrl": "https://lh4.googleusercontent.com/proxy/XpQJQsOqYKAn6UO4OHIpJvFQzIu5RugY2xSrqF-lkoNbWDdfWv0oNNtdthjZ_ODti_gpJx3oJZbAygvf3hqKSeS_ctsn2oP9OPbOMhc-jIOTzPeScIOxIaLVh5oRRYCFdaD0_pSZCcJyvVUIS08BHF5IgI5Lpw=w408-h408-k-no",
     "price": 90,
-    "priceCurrency": "EUR",
+    "priceCurrency": "PHP",
     "lat": 16.798975,
     "lng": 120.356724
   },
@@ -59,7 +59,7 @@
     "name": "Basilica Minore of Our Lady of Charity",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/BasilicaMinoreofOurLadyofCharityjf_274.JPG/220px-BasilicaMinoreofOurLadyofCharityjf_274.JPG",
     "price": 90,
-    "priceCurrency": "EUR",
+    "priceCurrency": "PHP",
     "lat": 16.324528,
     "lng": 120.355421
   },
@@ -68,7 +68,7 @@
     "name": "Baluarte Watch Tower",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/BasilicaMinoreofOurLadyofCharityjf_274.JPG/220px-BasilicaMinoreofOurLadyofCharityjf_274.JPG",
     "price": 90,
-    "priceCurrency": "EUR",
+    "priceCurrency": "PHP",
     "lat": 16.856991,
     "lng": 120.373173
   },
@@ -77,7 +77,7 @@
     "name": "Christ the Redeemer Statue",
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNYzcR5voohSjFC9vlhQuRr1KtodEg242faiNVG=s1600-w1600",
     "price": 150,
-    "priceCurrency": "EUR",
+    "priceCurrency": "PHP",
     "lat": 16.621896,
     "lng": 120.319688
   }
@@ -96,9 +96,28 @@
     "name": "Tapuakan River Park",
     "imageUrl": "http://www.livibautista.com/wp-content/uploads/2015/12/921218_1078835592156008_3450756882156457203_o-1050x591.jpg",
     "price": 150,
-    "priceCurrency": "EUR",
+    "priceCurrency": "PHP",
     "lat": 16.321784,
     "lng": 120.481898
     
+  },
+  {
+    "id": 217,
+    "name": "St. Catherine of Alexandria Parish, The Shrine of Our Lady of Namacpacan",
+    "imageUrl": "http://1.bp.blogspot.com/-bb2m-RO9sXo/U6OZ4TPncXI/AAAAAAAAAdc/RRQynBzPkew/s1600/DSC_0461.JPG",
+    "price": 150,
+    "priceCurrency": "PHP",
+    "lat": 16.854637,
+    "lng": 120.376923
+  }
+  ,
+  {
+    "id": 218,
+    "name": "MY HOME",
+    "imageUrl": "https://romrealty.com/wp-content/uploads/2015/01/house-home.jpg",
+    "price": 15000000000,
+    "priceCurrency": "PHP",
+    "lat": 16.526618,
+    "lng": 120.382527
   }
 ]
