@@ -19,12 +19,12 @@
   },
   {
     "id": 201,
-    "name": "Super 60m2 in trendy neighborhood!",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat3.jpg",
+    "name": "La Union Botanical and Zoological Garden",
+    "imageUrl": "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwju4KLYjKjcAhWIqJQKHcNhDsgQjRx6BAgBEAU&url=http%3A%2F%2Fwww.pagnapagna.com%2F2013%2F08%2Fla-union-botanical-garden.html&psig=AOvVaw0UUYdueehatrmFG0cjGwqt&ust=1531984377520311",
     "price": 150,
     "priceCurrency": "PHP",
-    "lat": 48.885312,
-    "lng": 2.341225
+    "lat": 16.587486,
+    "lng": 120.364874
   },
   {
     "id": 205,
