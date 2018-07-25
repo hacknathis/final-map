@@ -3,7 +3,7 @@
     "id": 145,
     "name": "Boracay",
     "imageUrl": "https://lh6.googleusercontent.com/proxy/nr6kTrpa5ctObthN6drXM7i8-G4l5yS3jVTN8b5Nph0A6j34Nl4VBvyOYu1mf6eiXmEkJxvO3O9RHVhy900w2DAJ4WuuGvK0yt0UF-2LHyZK0BhUjdBCMZn58dZHJi8pjFpWzSNk9EC0C7xfKnYmVJQtDqA=w540-h360-k-no",
-    "price": "708 km",
+    "price": 708,
     "priceCurrency": "PHP",
     "lat": 11.968188,
     "lng": 121.925624
@@ -12,7 +12,7 @@
     "id": 148,
     "name": "Bohol",
     "imageUrl": "https://lh3.googleusercontent.com/proxy/oF3BihtF8-vrcr0MKT7MbMZ3S1PXhBmwKPjMUkvEM1NkHaXMJ3_aajiEinF65vrkMyPRIVZUsW0dBpmZfTwI-sSyOXdl-qnsyerkSGMpqurA3EhAMVjEhVfozomJuMPraW5k67UJDDyeHKXjxutO8c5QTpA=w641-h360-k-no",
-    "price": "1,196 km",
+    "price": 1.196,
     "priceCurrency": "PHP",
     "lat": 9.876531,
     "lng": 124.167595
@@ -21,7 +21,7 @@
     "id": 201,
     "name": "El Nido, Palawan",
     "imageUrl": "https://lh6.googleusercontent.com/proxy/4noUXZxIbH6gIps6hj25vZxwFEs0eFjyfC25u01YGO9L0_Ls1eq-X86KqMa4kmXAF_ogq0KzYMNB-8GMxf7zqQo9RBUKikSpG1qPHUnPYT0ua9wsIUZH1K0xFHqsmO_zulBklRjq7SzcwbvnLkeO5zbU0Hs=w540-h360-k-no",
-    "price": "1,070 km",
+    "price": 1.070,
     "priceCurrency": "PHP",
     "lat": 9.836454,
     "lng": 118.714580
@@ -30,7 +30,7 @@
     "id": 205,
     "name": "Puerto Princesa",
     "imageUrl": "https://lh6.googleusercontent.com/proxy/BlFZI3hR3YVVkJ6XdUEYY9NaUuYO_flkmziygSef6XfA-3zL9OQhfchmSIG_jVh6KzCXYH9xesgWiSpeV91hXfrDWZzxx1V6zRBloJT88gF3BCn1j3x-SUkNwjIWK7CXHIXnraSWP0ZCRqyK1pIWmtI9Uzg=w540-h360-k-no",
-    "price": "1,043 km",
+    "price": 1.043,
     "priceCurrency": "PHP",
     "lat": 9.967135,
     "lng": 118.766617
@@ -39,7 +39,7 @@
     "id": 210,
     "name": "Coron",
     "imageUrl": "https://lh3.googleusercontent.com/-FZjdTUsBSWM/WH9HRi97vPI/AAAAAAAAkLw/bArTPsiBcCswFAfr6ijMZNbBLrEk233IQCLIBGAYYCw/w480-h360-k-no/",
-    "price": "719 km",
+    "price": 719,
     "priceCurrency": "PHP",
     "lat": 12.038924,
     "lng": 120.182831
@@ -48,7 +48,7 @@
     "id": 211,
     "name": "Baguio",
     "imageUrl": "https://lh3.googleusercontent.com/proxy/Q6U6L4W99OfrxQozlwcxXSHZDtFcutHX4r6JjQ2gMvVyZAGHmtzCTj2rBTltvbLHaMI4fcAIXEjXaPRORnjxiDopip0qWFnKX8HyjcR7ra-OaSQqlg_0Q3VctrZ-UQG1cwo76xnjXUSlrdZXrK0VFGWqfMg=w540-h360-k-no",
-    "price": "36.2 km",
+    "price": 36.2,
     "priceCurrency": "PHP",
     "lat": 16.403846,
     "lng": 120.596365
@@ -57,7 +57,7 @@
     "id": 212,
     "name": "Palawan",
     "imageUrl": "https://lh4.googleusercontent.com/-dH34EBVd9nU/WxLNI43IN5I/AAAAAAAAqkM/Oak8P0rHGGsnRfoG8wo2loO9l67tRELZQCLIBGAYYCw/w541-h360-k-no/",
-    "price": 1,070 km,
+    "price": 1.070,
     "priceCurrency": "PHP",
     "lat": 9.836454,
     "lng": 118.758525
@@ -66,7 +66,7 @@
     "id": 213,
     "name": "Panglao Island",
     "imageUrl": "https://lh3.googleusercontent.com/-FUnG597SBcA/WZdIGvYGfHI/AAAAAAAAMho/CmDLVCXsUQYk18HzHJa_crxBe3N4I3xhwCLIBGAYYCw/w541-h360-k-no/",
-    "price": "1,231 km",
+    "price": 1.231,
     "priceCurrency": "PHP",
     "lat": 9.584684,
     "lng": 123.784947
@@ -75,7 +75,7 @@
     "id": 214,
     "name": "Davao",
     "imageUrl": "https://lh4.googleusercontent.com/-9BM_wfedR_o/ViZQSXzDZeI/AAAAAAAAN2c/ROj7UF-pL7YyfHTNpplh3iYGGgSP8_d1gCJkC/w541-h360-k-no/",
-    "price": "1,787 km",
+    "price": 1.787,
     "priceCurrency": "PHP",
     "lat": 7.210323,
     "lng": 125.459447
@@ -85,7 +85,7 @@
     "id": 215,
     "name": "Tagaytay",
     "imageUrl": "https://lh3.googleusercontent.com/proxy/K_5b2d9-QRtYWebT47va225zeKtnjTpI9PwFA6W18fzbaezEAf30UHGXIfogveac4HAJA3gzrEdgpPEIKnrBmj5RzgeVYozPx_EmopXJ6DRSB3i6hrkUcV_QxxYrsySLA0vg878mnUdWgdWlqTILO1__YzQ=w544-h360-k-no",
-    "price": "340 km",
+    "price": 340,
     "priceCurrency": "EUR",
     "lat": 14.114319,
     "lng": 120.974574
@@ -94,7 +94,7 @@
     "id": 216,
     "name": "Chocolate Hills",
     "imageUrl": "https://lh4.googleusercontent.com/proxy/i0E4SYg-Mocl_ZjcGdhe1tHIaXfZ7nrji1EfVoajxmT09yTyx640YXCCjJrsqpPTK41dXAEc7D9EleUJCE2gNQGMzpr6eL-HwW5egP8f8ESVwE8CP3qCaY0tcP7wYC-ZwGtqYCwDC_psYTdSFPTwPxDKvxs=w541-h360-k-no",
-    "price": "1,197 km",
+    "price": 1.197,
     "priceCurrency": "PHP",
     "lat": 9.833804,
     "lng": 124.146504
@@ -103,7 +103,7 @@
     "id": 217,
     "name": "Vigan",
     "imageUrl": "https://lh5.googleusercontent.com/proxy/lYXlyZ09FP4agy5IehVzgcJHybkplQvNvFFSIJLMVBlI7LpYr2_pYCPg1ng8rxeejF_5OF5FuIk85PpbH2TqH0zU6pK8yQ6v6TFMeAS3u5JnvxU7zCeviewrl_RaZ93srfTJPWEIHz0rKqPCNdTMafwEIho=w540-h360-k-no",
-    "price": 150,
+    "price": 159,
     "priceCurrency": "PHP",
     "lat": 17.572223,
     "lng": 120.391660
@@ -113,7 +113,7 @@
     "id": 218,
     "name": "Iloilo City",
     "imageUrl": "https://lh6.googleusercontent.com/proxy/WymT9E7kgJAvdE4Pi4VfZ0W6E9H5pE8WE0J1nBbE0Pb9qVUEtBD4aD1SmVGEiRfPhFYrcsOTKfqQX7qEXa27Q9iZbEYp_qm4eSukA3J4M5EDfYlW0MmEYsgh_cs1JZK5Ti6yqygsBYgmrCniELJvNUuaCuU=w542-h360-k-no",
-    "price": "930 km",
+    "price": 930,
     "priceCurrency": "PHP",
     "lat": 10.716221,
     "lng": 122.546401
@@ -123,7 +123,7 @@
     "id": 219,
     "name": "Oslob",
     "imageUrl": "https://lh3.googleusercontent.com/proxy/oHoofoIMWL9ZPcGjYHF8N9qLhfJ3vYNpuclIrFbfdY-xfNk_VHjktPMSWFomsl83uiruSAjnOei0V29l4X7ARvrGX-G9fOEKo1GdY6tU_Lv0oneCS9X0d7b7kiwK-lFP-hXJtbFtAUi9x4nmHxs0r0T3his=w642-h360-k-no",
-    "price": 150,
+    "price": 1.230,
     "priceCurrency": "PHP",
     "lat": 9.581766,
     "lng": 123.417470
@@ -133,7 +133,7 @@
     "id": 220,
     "name": "Subic",
     "imageUrl": "https://lh6.googleusercontent.com/-HEl9TBXgGdA/WGmVjRsS87I/AAAAAAAAK6c/a1y04xE3JiMRHxr9ZWx0GtFEjbiCg_tiQCLIB/w480-h360-k-no/",
-    "price": "262 km",
+    "price": 262,
     "priceCurrency": "PHP",
     "lat": 14.896661,
     "lng": 120.244148
@@ -143,7 +143,7 @@
     "id": 221,
     "name": "MY HOME",
     "imageUrl": "https://romrealty.com/wp-content/uploads/2015/01/house-home.jpg",
-    "price": 15000000000,
+    "price": 20,
     "priceCurrency": "PHP",
     "lat": 16.526618,
     "lng": 120.382527
