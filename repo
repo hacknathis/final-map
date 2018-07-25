@@ -1,9 +1,9 @@
 [
   {
     "id": 145,
-    "name": "Ma-Cho Temple",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/MaChoTemplejf501.JPG/1200px-MaChoTemplejf501.JPG",
-    "price": 164,
+    "name": "Boracay",
+    "imageUrl": "https://lh6.googleusercontent.com/proxy/nr6kTrpa5ctObthN6drXM7i8-G4l5yS3jVTN8b5Nph0A6j34Nl4VBvyOYu1mf6eiXmEkJxvO3O9RHVhy900w2DAJ4WuuGvK0yt0UF-2LHyZK0BhUjdBCMZn58dZHJi8pjFpWzSNk9EC0C7xfKnYmVJQtDqA=w540-h360-k-no",
+    "price": "708 km",
     "priceCurrency": "PHP",
     "lat": 16.621194,
     "lng": 120.317476
